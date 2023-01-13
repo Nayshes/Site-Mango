@@ -1,0 +1,18 @@
+body {
+    font-size: 30px;
+    h1 {
+        color: tomato;
+    }
+    div {
+        margin-bottom: 20px;
+      }
+}
+.cow { 
+    margin-top: 10px;
+}
+.hey {
+
+    &__lol {
+        margin-top: 2px;
+    }
+}
